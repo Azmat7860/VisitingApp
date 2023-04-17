@@ -1,0 +1,15 @@
+#card-style{
+    width: 300px;
+    margin:10px;
+    border-radius:10px;
+}
+#card-style:hover{
+    background-color: #282c34;
+    margin: 10px;
+    border: 5px solid white;
+    border-radius:20px;
+}
+#avatar-style{
+    height:70px;
+    width: 70px;
+}
